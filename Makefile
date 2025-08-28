@@ -3,7 +3,7 @@
 setup_conda:
 	@echo "||Creating conda environment||"
 	@conda create -p .conda python=3.11 -y
-	@.conda/bin/pip -r requirements.txt
+	@.conda/bin/pip install -r requirements.txt
 	@echo "Done."
 
 remove_conda:
