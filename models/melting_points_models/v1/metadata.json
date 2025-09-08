@@ -2,7 +2,7 @@
     "target_name": "melting_points",
     "model_class": "LGBMRegressor",
     "model_version": 1,
-    "training_date": "2025-09-08T17:23:07.475333",
+    "training_date": "2025-09-08T21:02:12.976791",
     "n_samples": 11485,
     "n_features": 182,
     "model_params": {
