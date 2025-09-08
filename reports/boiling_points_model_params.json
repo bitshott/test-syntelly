@@ -1,8 +1,1 @@
-{"n_estimators": 8731,
-"max_depth": 35,
-"min_samples_split": 4,
-"min_samples_leaf": 1,
-"max_features": "sqrt",
-"bootstrap": false,
-"criterion": "squared_error",
-"n_jobs": 10}
+{"n_estimators": 4970, "max_depth": 64, "min_samples_split": 4, "min_samples_leaf": 1, "max_features": "sqrt", "bootstrap": false, "criterion": "friedman_mse", "n_jobs": 65}

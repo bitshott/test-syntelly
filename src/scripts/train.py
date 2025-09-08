@@ -57,5 +57,5 @@ def train(target_name: Literal['boiling_points', 'melting_points'],
 
 
 if __name__ == "__main__":
-    train(target_name='boiling_points', model_class=RandomForestRegressor, model_version=1)
+    train(target_name='boiling_points', model_class=RandomForestRegressor, model_version=2)
     train(target_name='melting_points', model_class=LGBMRegressor, model_version=1)

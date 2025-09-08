@@ -1,0 +1,8 @@
+{"n_estimators": 8731,
+"max_depth": 35,
+"min_samples_split": 4,
+"min_samples_leaf": 1,
+"max_features": "sqrt",
+"bootstrap": false,
+"criterion": "squared_error",
+"n_jobs": 10}
